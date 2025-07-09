@@ -22,25 +22,6 @@ CSS (Responsive styling)
 
 npm (Package Manager)
 
-📷 Screenshots:
-(You can upload screenshots later in your GitHub repo)
-
-🚀 How to Run Locally:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
-npm start
-✅ Folder Structure:
-bash
-Copy
-Edit
-/src
-  ├── App.js       # Stopwatch component
-  ├── App.css      # Styles for the stopwatch
-  └── index.js     # App entry point
 📌 Project Goals:
 Learn and practice React hooks (useState, useEffect).
 
