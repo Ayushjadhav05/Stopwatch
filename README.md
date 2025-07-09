@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+⏱ React Stopwatch App
+A simple and responsive Stopwatch application built with React.
+It allows you to start, stop, and reset the timer with millisecond precision.
+
+✨ Features:
+Start, Stop, and Reset functionality.
+
+Displays time in minutes : seconds : milliseconds.
+
+Clean and minimal UI with responsive design.
+
+Built using React functional components and hooks (useState & useEffect).
+
+Lightweight and easy to integrate or extend.
+
+⚙️ Technologies Used:
+React (Functional Components + Hooks)
+
+JavaScript (ES6+)
+
+CSS (Responsive styling)
+
+npm (Package Manager)
+
+📌 Project Goals:
+Learn and practice React hooks (useState, useEffect).
+
+Build a useful utility app with React.
+
+Understand component-based architecture in React.
+
+>>>>>>> 28e1422295b985ae55c15a42dce4872b087d1643
